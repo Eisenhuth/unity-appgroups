@@ -4,7 +4,8 @@ using System.Runtime.InteropServices;
 using UnityEngine;
 using System.IO;
 
-namespace AppGroupPlugin.Plugins.iOS
+// ReSharper disable once CheckNamespace
+namespace Plugins.iOS
 {
     public static class AppGroupPlugin
     {
